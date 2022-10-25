@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+div{
+    width: 100%;
+}
+canvas{
+    border-radius: 5px;
+    border-color: blue;
+}
+h3{
+    font-size: 23px;
+    box-shadow: 5px, 5px, 5px grey;
+}
+.copy_right_footer{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align: center;
+}
+canvas{
+    border : 30px solid red;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px gray;
+}
